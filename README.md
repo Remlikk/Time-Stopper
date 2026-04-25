@@ -11,3 +11,5 @@ To stop time, hold down the clock for approximately 1 second, and then release. 
 
 ## Note:
 ### This project only works in Minecraft version 1.20.5. A newer release is coming soon, however due to changes in vanilla shaders, it most likely won't include the custom shader effects the 1.20.5 version has.
+
+### In order to see the custom shader, make sure that you have graphics set to fabulous in the video settings!
